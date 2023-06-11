@@ -6,5 +6,5 @@ eleventyNavigation:
 ---
 # Bootstrap
 
-Bootstrap will go here....
+
 
