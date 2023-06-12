@@ -4,8 +4,6 @@ eleventyNavigation:
   key: Contact Us
   order: 6
 ---
-# Contact Form
-
 
 <html>
   <head>
