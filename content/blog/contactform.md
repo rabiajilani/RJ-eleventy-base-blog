@@ -1,13 +1,11 @@
 ---
-layout: layouts/contactForm.njk
+layout: layouts/base.njk
 eleventyNavigation:
   key: Contact Us
   order: 6
 ---
 # Contact Form
 
-
-Contact Form will go here....
 
 <html>
   <head>

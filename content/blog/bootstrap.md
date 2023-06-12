@@ -6,9 +6,6 @@ eleventyNavigation:
 ---
 # Bootstrap
 
-# Bootstrap
-
-Bootstrap will go here....
 
 <html>
   <head>
