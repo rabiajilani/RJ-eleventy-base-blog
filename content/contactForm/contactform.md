@@ -27,13 +27,13 @@ eleventyNavigation:
   
   <br>  <br>
   
-  <label for="email">Email:</label>
+  <label for="email">Email (gmail): </label>
   <input type="email" id="email"
        pattern=".+@gmail\.com" size="30" required>
   
    <br>  <br>
   
-  <label for="phone">Phone number:</label>
+  <label for="phone">Phone number (000-000-0000): </label>
   <input type="tel" id="phone" name="phone"
        pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
        required>
@@ -45,7 +45,7 @@ eleventyNavigation:
    <textarea id="message" name="message" rows="4" cols="50">Type your message here</textarea>
   
    <br>
-  <button class = "form_submit" type = "submit"> Submit </button>
+  <button class = "form_submit" type = "submit" > Submit </button>
 
    
   <br>  <br>
